@@ -1,4 +1,4 @@
-# TikTok Data Analysis Project
+# TikTastic Voyage: Exploring the Wild World of TikTok Using Python
 
 ## Table Of Contents
 - [Overview](#overview)
